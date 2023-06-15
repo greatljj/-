@@ -1,0 +1,113 @@
+header{
+    color: #FFFFFF;
+    background-image: url(../imge/n.png);
+    background-repeat: no-repeat;
+    background-size: 100%100%;
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+}
+nav{
+    font-weight: bold;
+    padding: 20px;
+    width: 160;
+    float: left;/*向左浮动*/
+}
+nav ul{
+    margin: 0;
+    padding-left: 0;
+    font-size: 1.2em;/*字体大小（字号）*/
+}
+li{list-style-type:none}
+a:link{color: #000033;}
+a:visited{color: #344873;}
+a:hover{color: #FFFFFF;}
+nav a{
+    text-decoration:none;}/*去下划线*/
+main{
+    background-color:#FFFFFF;
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    margin-left: 190px;
+}
+
+body{
+
+    background-image: url(../imge/002.webp);
+    color: black; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
+    color: black;
+}
+h2{
+    color: #3399cc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:1px #ccc;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: #FFFFFF;
+    font-size: 75%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+    margin-left: 190px;
+}
+
+#wrapper{
+    width: 80%;/*内容大小占网页的80%*/
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px #333;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  .left-column,
+  .right-column {
+    width: 49%;
+    float: left;
+    margin-right: 2%;
+  }
+  
+  .right-column {
+    margin-right: 0;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+  }
+ 
+  .content-section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    text-align: justify;
+    margin-bottom: 30px;
+  }
+  
+  /* .content-section h2, h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+  
+  .content-section p {
+    margin-bottom: 20px;
+  } */
+  
+  

@@ -1,0 +1,21 @@
+        <main>
+            <article class="post">
+                <header>
+                    <h2>新产品上架</h2>
+                    <time datetime="2023-06-12">2023年6月12日</time>
+                </header>
+                <div class="post-thumbnail">
+                    <img src="../imge/new_product.jpg" alt="新宠物玩具上架">
+                </div>
+                <p>我们的新款宠物玩具“智能球”现已上架！通过内置的传感器和电子设备，这款玩具可以记录宠物的活动轨迹，并且可以通过手机应用程序来控制它。这是一个非常好玩且具有创意的宠物玩具，您的宠物肯定会喜欢它。</p>
+            </article>
+            <article class="post">
+                <header>
+                    <h2>周年庆典活动</h2>
+                    <time datetime="2023-06-01">2023年6月1日</time>
+                </header>
+                <div class="post-thumbnail">
+                    <img src="../imge/birthday.jpg" alt="爪宝周年庆典">
+                </div>
+                <p>爪宝成立一周年了！为了感谢我们的客户，我们特别推出了一系列庆典活动。从现在起到本月底，任何购买金额超过100元的客户都可以获得20元折扣券。此外，我们还会在庆典日当天推出惊喜礼物，敬请期待！</p>
+            </article>
